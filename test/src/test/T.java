@@ -1,12 +1,11 @@
 package test;
 
-public class Test {
+public class T {
 
 	public static void main(String[] args) {
-		System.out.println("안녕하세요.");
+		// TODO Auto-generated method stub
 		
-		
-		
+
 	}
 
 }
